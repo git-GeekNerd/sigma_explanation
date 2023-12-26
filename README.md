@@ -40,11 +40,11 @@
 
 #### Также `сигма` может означать мимику лица, поступки человека или же его мировоззрение
 
-<img src="sigma_face1.gif">
-<img src="sigma_face2.gif" width="128">
-<img src="sigma_face3.gif" width="128">
-<img src="sigma_face4.gif">
-<img src="sigma_face5.gif">
+<img src="sigma_face1.gif"><img src="sigma_face2.gif" width="128"><img src="sigma_face3.gif" width="128"><img src="sigma_face4.gif"><img src="sigma_face5.gif">
+
+
+
+
 
 <br>
 <hr>
